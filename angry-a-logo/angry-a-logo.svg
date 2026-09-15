@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
-  <title id="title">Angry A logo</title>
-  <desc id="desc">A sharp red letter A with narrowed eyes and heavy angled brows.</desc>
+  <title id="title">Angry A logo with scowl crossbar</title>
+  <desc id="desc">A sharp red letter A with narrowed eyes and a large angry scowl integrated where the A crossbar sits.</desc>
   <defs>
     <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#ff3b30"/>
@@ -12,30 +12,20 @@
     </filter>
   </defs>
   <g filter="url(#shadow)">
-    <!-- One angular A silhouette -->
-    <path fill="url(#body)" fill-rule="evenodd" d="
-      M600 95
-      L1085 1070
-      L846 1070
-      L754 865
-      L446 865
-      L354 1070
-      L115 1070
-      Z
-      M600 410
-      L505 650
-      L695 650
-      Z"/>
-    <!-- Angry eye sockets cut visually into the letter -->
+    <path fill="url(#body)" fill-rule="evenodd" d="M600 95 L1085 1070 L846 1070 L754 865 L446 865 L354 1070 L115 1070 Z M600 410 L505 650 L695 650 Z"/>
     <path fill="#18030a" d="M315 548 L548 608 L518 717 L349 656 Z"/>
     <path fill="#18030a" d="M885 548 L652 608 L682 717 L851 656 Z"/>
-    <!-- Eyes -->
     <path fill="#fff5f5" d="M355 590 L520 630 L500 687 L385 650 Z"/>
     <path fill="#fff5f5" d="M845 590 L680 630 L700 687 L815 650 Z"/>
     <ellipse cx="458" cy="647" rx="24" ry="31" fill="#120006" transform="rotate(14 458 647)"/>
     <ellipse cx="742" cy="647" rx="24" ry="31" fill="#120006" transform="rotate(-14 742 647)"/>
-    <!-- Heavy brows -->
     <path fill="#18030a" d="M295 494 L555 574 L530 617 L310 558 Z"/>
     <path fill="#18030a" d="M905 494 L645 574 L670 617 L890 558 Z"/>
+    <!-- The scowl is the A's crossbar: a broad, clenched mouth locking both legs together. -->
+    <path fill="#18030a" d="M390 748 Q600 824 810 748 L780 890 Q600 958 420 890 Z"/>
+    <path fill="#fff5f5" d="M430 790 Q600 842 770 790 L754 842 Q600 886 446 842 Z"/>
+    <path fill="#8f0019" d="M448 866 Q600 909 752 866 L742 889 Q600 928 458 889 Z"/>
+    <path fill="#18030a" d="M413 744 L454 786 L433 817 L381 770 Z"/>
+    <path fill="#18030a" d="M787 744 L746 786 L767 817 L819 770 Z"/>
   </g>
 </svg>
