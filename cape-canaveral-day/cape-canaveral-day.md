@@ -77,9 +77,9 @@ All three below are **confirmed open on Saturdays** (checked September 25, 2026)
 - **Sunday:** Sands opens at noon, so do Manatee Sanctuary Park first; Cafe Paradiso is brunch-only, so pick Indian Sizzler or Third Culture Kitchen for dinner.
 
 ## If there's a launch
-Nothing is currently scheduled for Saturday, November 28 - but this is a live manifest weekend: a **Falcon Heavy (Griffin Mission One lunar lander demo) is scheduled NET Sunday, November 29 at 7:00 PM from LC-39A**, one day after this trip. Launch dates slip in both directions, so check spacelaunchschedule.com the night before:
-- If it slips INTO your Saturday, rebuild the day around the liftoff - Space View Park is the classic free viewing spot (direct riverfront sightline to the pads); claim a spot 2-3 hours early and drop or move the beach as needed.
-- If it holds for Sunday evening and you're still in town, a 7:00 PM Falcon Heavy from 39A is worth staying for - Space View Park again, arriving well before dark.
+A Falcon Heavy carrying Astrobotic's Griffin Mission One is on the manifest from LC-39A, but **no November 28 or 29 launch date or 7:00 PM liftoff time is confirmed**. [Next Spaceflight](https://nextspaceflight.com/launches/details/6759/) currently says only **NET November 2026**; [Astrobotic's own manifest](https://www.astrobotic.com/lunar-delivery/manifest/) says **2026**. Some trackers convert an approximate November 30, 00:00 UTC database value into Sunday, November 29 at 7:00 PM EST; [another tracker explicitly flags the timestamp as tentative rather than a confirmed window](https://spacelaunchlive.com/launches/falcon-heavy-griffin-mission-one/). Check [SpaceX updates](https://www.spacex.com/launches/) and a live tracker the night before and again that morning.
+- If a real window lands **Saturday**, rebuild the beach and Titusville timing around it, rather than treating this sunset plan as launch viewing. Space View Park is a free riverfront viewing spot with limited free parking; confirm any after-dark launch access with the city.
+- If an **evening window is confirmed for Sunday, November 29**, use the [companion Sunday launch-watch itinerary](https://github.com/peshzero/filedrop/blob/main/cape-canaveral-day/cape-canaveral-sunday-launch.md). That plan is conditional and includes a no-launch alternative. Launches slip or scrub, so keep the rest of the trip worth doing without one.
 
 ## Why the route is shaped this way
 Everything south of Titusville runs in one line (Cape Canaveral to Cocoa Beach), then a single 29-mile northbound drive lands the riverfront memorials right at sunset and dinner five minutes later. Space View Park's sunrise-to-sunset hours are the constraint that sets the beach's 4:15 PM departure - moving the park any later puts the visit in the dark.
@@ -95,7 +95,7 @@ Everything south of Titusville runs in one line (Cape Canaveral to Cocoa Beach),
 
 ### Sources (checked September 25, 2026)
 - Sunset November 28, 2026 (5:25 PM EST, civil twilight to ~5:51): timeanddate.com/sun/usa/cape-canaveral?month=11
-- Launch manifest (Falcon Heavy Griffin Mission One, NET Nov 29, 2026, 7:00 PM, LC-39A): watchthelaunch.com/launch/griffin-mission-one ; countdowntoignition.com/next-launch/id/d3bd7fb2-fac6-49fc-ae52-cee07d2fde67
+- Launch manifest and uncertainty: https://nextspaceflight.com/launches/details/6759/ (NET November 2026); https://www.astrobotic.com/lunar-delivery/manifest/ (2026 only); https://spacelaunchlive.com/launches/falcon-heavy-griffin-mission-one/ (Nov 30 00:00 UTC approximate database value, not a confirmed clock time).
 - Sands Space History Center: ccspacemuseum.org/location-and-hours, /faqs
 - Space View Park, Walk of Fame and parking: https://www.titusville.com/646/Space-View-Park ; https://www.titusville.com/Faq.aspx?QID=315 ; https://floridahikes.com/space-view-park/ ; https://spacewalkoffame.org/monuments
 - Manatee Sanctuary Park and manatee season: travel.usnews.com (Cocoa Beach things to do)
