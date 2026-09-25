@@ -1,3 +1,7 @@
+> **SUPERSEDED - the trip changed on September 25, 2026.** The Cape trip is now a **full day on Friday, November 27 OR Saturday, November 28** (11 AM start, dinner as late as 8:30 PM) - the Sunday visit, noon departure, and both pre-noon scenarios below no longer apply. This file is kept only as reference in case a confirmed launch window reshuffles the plans again. **The current plan is the [Cape Canaveral day file](https://github.com/peshzero/filedrop/blob/main/cape-canaveral-day/cape-canaveral-day.md).**
+
+---
+
 # Cape Canaveral Sunday morning, November 29, 2026: pre-noon launch watch or a short morning before departure
 
 **You leave by noon on Sunday, November 29.** The first version of this file planned a full 11 AM - 7 PM launch-watch day; that day is impossible with a noon departure, and everything post-noon in it does NOT apply to you. This file now covers only what fits before noon:
